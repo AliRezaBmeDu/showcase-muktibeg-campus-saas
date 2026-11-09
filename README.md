@@ -204,7 +204,7 @@ flowchart TB
 ## Live Demo & Media
 
 - **Live Website Link:** [Muktibeg Campus](https://campus.muktibeg.com)
-- **Demo Video Link:** [Demo Video Link — placeholder, to be added]
+- **Demo Video Link:** [Muktibeg Campus Feature Tour (2:45, 720p, English voiceover)](muktibeg-campus/feature_tour.mp4) — timestamped narration script: [muktibeg-campus/voice_script.txt](muktibeg-campus/voice_script.txt)
 - **Screenshots:** [Screenshots — placeholder, to be added]
 
 Drop production screenshots into `assets/screenshots/` and embed them here:

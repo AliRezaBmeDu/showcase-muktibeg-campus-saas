@@ -1,0 +1,100 @@
+================================================================
+MUKTIBEG CAMPUS — FEATURE TOUR
+VOICEOVER SCRIPT — ENGLISH
+================================================================
+Video file : muktibeg-campus/feature_tour.mp4
+Runtime    : 02:45 (165 seconds)
+Resolution : 1280 x 720 (720p) @ 30 fps  |  Audio: AAC stereo, English TTS narration
+Live site  : https://campus.muktibeg.com
+----------------------------------------------------------------
+
+[00:00 – 00:12]  SCENE 1 — TITLE
+On screen : Title card — 'Muktibeg Campus · Feature Tour' with URL campus.muktibeg.com
+Narration :
+  Welcome to Muktibeg Campus — the all-in-one learning and
+  management platform for Bangladesh's coaching academies. Let's
+  take the tour.
+
+[00:12 – 00:33]  SCENE 2 — LANDING
+On screen : Landing page: hero, student code login card, teacher email login card, feature sections
+Caption   : Bilingual sign-in — code or email
+Narration :
+  This is campus dot muktibeg dot com. Students and teachers sign in
+  side by side. Offline students log in with a simple five character
+  code, no passwords to remember, while teachers use email. The
+  platform is bilingual, in Bangla and English.
+
+[00:33 – 00:45]  SCENE 3 — TEACHER DASHBOARD
+On screen : Teacher dashboard overview: stat cards (courses, students, materials, batches) and course list
+Caption   : Teacher dashboard
+Narration :
+  Here is the teacher's dashboard. Courses, students, batches, and
+  materials at a glance. Every teacher runs their own academy inside
+  the campus.
+
+[00:45 – 01:07]  SCENE 4 — COURSE DETAIL
+On screen : Course detail: lectures, batches, offline enrollment codes, Practice Ground subject toggles
+Caption   : Courses, batches & lectures
+Narration :
+  Inside a course, teachers manage batches, lectures, sheets,
+  routines, and notices. Lectures combine topics, documents, and
+  videos, shared across batches. Offline students get in with
+  generated enrollment codes, and each batch can unlock limitless
+  practice subjects.
+
+[01:07 – 01:20]  SCENE 5 — STUDENTS EXAMS
+On screen : All Students roster page, then the Create Exam form
+Caption   : Students & exams
+Narration :
+  The student roster keeps every learner organized. Exams are
+  created in minutes — multiple choice or written, with scheduled
+  windows — and answers flow into an evaluation workspace where
+  teachers award marks and feedback.
+
+[01:20 – 01:32]  SCENE 6 — ACCESS PACKAGES
+On screen : Access Tokens page (FT-/PA- codes), then Online Packages page (seats & tokens)
+Caption   : Tokens, links & packages
+Narration :
+  Access is a business engine: free tokens, paid links, and seat-
+  based packages. Teachers buy capacity — say fifty seats for thirty
+  days — and every redemption is tracked.
+
+[01:32 – 01:45]  SCENE 7 — STUDENT LOGIN
+On screen : Login page: 'Offline student? Login with code' — code U4MPF and phone entered, sign-in succeeds
+Caption   : Offline student code login
+Narration :
+  Now, the student side. An offline student simply enters their
+  enrollment code and phone number, and they are in. No passwords,
+  no friction.
+
+[01:45 – 01:59]  SCENE 8 — STUDENT DASHBOARD
+On screen : Student dashboard: enrolled course card, attendance, exam average, progress, course catalog
+Caption   : Student dashboard
+Narration :
+  The dashboard shows courses, attendance, exam averages, and
+  progress at a glance. A premium subscription unlocks every course,
+  with local payments through SSL Commerz.
+
+[01:59 – 02:16]  SCENE 9 — BATCH CONTENT
+On screen : EB_Sep batch page: Limitless Practice Ground subjects, lecture topics, Videos tab
+Caption   : Lectures, videos & materials
+Narration :
+  Inside their batch, everything the teacher publishes appears in
+  one place — lectures, videos, documents, routines, and notices —
+  with secure, expiring download links.
+
+[02:16 – 02:27]  SCENE 10 — STUDENT TOOLS
+On screen : Attendance page, Progress charts page, then Discussion Forum
+Caption   : Progress, attendance & forum
+Narration :
+  Attendance, exam results, progress charts, and a discussion forum
+  round out the experience, plus unlimited MCQ and written practice
+  on Practice Ground.
+
+[02:27 – 02:45]  SCENE 11 — END
+On screen : End card — 'One platform. Four portals.' + CTA campus.muktibeg.com
+Narration :
+  Muktibeg Campus — one platform, four portals: students, teachers,
+  moderators, and admins. Start your campus today at campus dot
+  muktibeg dot com.
+
